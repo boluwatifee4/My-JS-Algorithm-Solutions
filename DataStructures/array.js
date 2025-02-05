@@ -49,3 +49,8 @@ If you are already familiar with this topic you can skip over to the Implementin
 
 Ps, throughout the course I use var, let, and const to declare variables. It is not important that you understand the differences between them for this course, but if you are curious, I recommend reading this: https://dev.to/sethusenthil/var-vs-let-vs-const-1cgc
 */
+
+//  --------------------------- Classes In javascript ---------------------------
+// reference type
+// context
+// instantiation
